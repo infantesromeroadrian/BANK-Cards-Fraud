@@ -55,5 +55,3 @@ This project is under the [MIT] license. 📄
 
 📞 Contact
 [https://www.linkedin.com/in/adrianinfantes/]
-
-Note: This is a sample README file and should be customized according to the specific details and functionality of your project. ✍️
